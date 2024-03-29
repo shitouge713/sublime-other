@@ -4,4 +4,3 @@
 - [面试必备：聊聊MySQL的主从](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&amp;mid=2247497982&amp;idx=1&amp;sn=bb589329cceb5462fc41f66ec63dbf56&amp;chksm=cf2227d7f855aec16dd4d3b3425c0401850eeaf2c9cdc82e82722d38a00c24ee9ccfa3353774&token=1990771297&lang=zh_CN#rd)
 - [聊聊幂等设计](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&mid=2247497427&idx=1&sn=2ed160c9917ad989eee1ac60d6122855&chksm=cf2229faf855a0ecf5eb34c7335acdf6420426490ee99fc2b602d54ff4ffcecfdab24eeab0a3&token=1990771297&lang=zh_CN#rd)
 - [聊聊接口性能优化的11个小技巧](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&mid=2247497361&idx=1&sn=a0a2b0f92804921ba3d31b6236f275c2&chksm=cf2229b8f855a0aec650f4e0c3f105aa08e52fabbc54807dd37fefc4873749698b2b1445b59f&token=1990771297&lang=zh_CN#rd)
-- [面试必备：秒杀场景九个细节](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&mid=2247493227&idx=1&sn=10e5064d7d224c69dce400e90cd44de6&chksm=cf223942f855b0541ada22a312e0d4ffbc99df463678247a0dede3ef16eb81e3344a4a54ceaf&token=1990771297&lang=zh_CN#rd)
